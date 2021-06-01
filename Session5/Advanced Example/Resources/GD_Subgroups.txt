@@ -1,0 +1,48 @@
+CDE_Subgroup	GroupType	Subgroup
+	All	All Students
+English Learners	EL_NonEL	EL
+	EL_NonEL	Non-EL
+English Learners	ELA Status	EL
+	ELA Status	EO
+	ELA Status	IFEP
+	ELA Status	RFEP
+	ELA Status	TBD
+Foster Youth	Foster	Foster
+	Gender	Female
+	Gender	Male
+	Grade Level	10
+	Grade Level	11
+	Grade Level	12
+	Grade Level	6
+	Grade Level	7
+	Grade Level	8
+	Grade Level	9
+Homeless Youth	Homeless	Homeless
+	FRL_NonFRL	FRL
+	FRL_NonFRL	Non-FRL
+	Lunch Status	Free
+	Lunch Status	Pay
+	Lunch Status	Reduced
+African American	Race_Ethnicity_Agg	AA
+Hispanic or Latino	Race_Ethnicity_Agg	Latinx
+American Indian or Alaska Native	Race_Ethnicity_Agg	Other Ethnicity
+Asian	Race_Ethnicity_Agg	Other Ethnicity
+Filipino	Race_Ethnicity_Agg	Other Ethnicity
+White	Race_Ethnicity_Agg	Other Ethnicity
+Not Reported	Race_Ethnicity_Agg	Other Ethnicity
+Two or More Races	Race_Ethnicity_Agg	Other Ethnicity
+Pacific Islander	Race_Ethnicity_Agg	Other Ethnicity
+African American	Race_Ethnicity	AA
+Hispanic or Latino	Race_Ethnicity	Latinx
+American Indian or Alaska Native	Race_Ethnicity	Native American
+Filipino	Race_Ethnicity	Filipino
+Pacific Islander	Race_Ethnicity	Pacific Islander
+White	Race_Ethnicity	White
+Two or More Races	Race_Ethnicity	Two or More Races
+	Race_Ethnicity	Other Ethnicity
+Asian	Race_Ethnicity	Asian
+Not Reported	Race_Ethnicity	Unknown
+	SED	Non-SED
+Socioeconomically Disadvantaged	SED	SED
+	SWD	Non-SWD
+Students with Disabilities	SWD	SWD

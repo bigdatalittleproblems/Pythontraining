@@ -1,0 +1,11 @@
+Region	Source	SourceRace	Race_Ethnicity	Race_Ethnicity_Agg
+CA	CALPADS	Black/African Am	AA	AA
+CA	CALPADS	Hispanic	Latinx	Latinx
+CA	CALPADS	White	White	Other Ethnicity
+TN	TDOE	Asian	Asian	Not Latino or African American
+TN	TDOE	Black or African American	AA	AA
+TN	TDOE	Black/Hispanic/Native American		
+TN	TDOE	Hispanic	Latinx	Latinx
+TN	TDOE	White	White	Not Latino or African American
+TN	TDOE	Native Hawaiian or Other Pacific Islander	Pacific Islander	Not Latino or African American
+TN	TDOE	American Indian or Alaska Native	Native American	Not Latino or African American

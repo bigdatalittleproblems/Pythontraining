@@ -1,0 +1,45 @@
+CompSchool_CDS	altSchoolID	County	District	School
+19647336058317	Robert^Louis^Stevens--Los^Angeles^Uni--1964733-6058317	Los Angeles	Los Angeles Unified	Robert Louis Stevenson College and Career Preparatory
+19647336058036	Griffith^Middle--Los^Angeles^Uni--1964733-6058036	Los Angeles	Los Angeles Unified	Griffith Middle
+19647336057889	Belvedere^Middle--Los^Angeles^Uni--1964733-6057889	Los Angeles	Los Angeles Unified	Belvedere Middle
+19647330124495	Communication^and^Te--Los^Angeles^Uni--1964733-0124495	Los Angeles	Los Angeles Unified	Communication and Technology at Diego Rivera Learning Complex
+19647330124503	Diego^Rivera^Learnin--Los^Angeles^Uni--1964733-0124503	Los Angeles	Los Angeles Unified	Diego Rivera Learning Complex Green Design STEAM Academy
+19647330124511	Performing^Arts^Comm--Los^Angeles^Uni--1964733-0124511	Los Angeles	Los Angeles Unified	Performing Arts Community at Diego Rivera Learning Complex
+19647330124487	Public^Service^Commu--Los^Angeles^Uni--1964733-0124487	Los Angeles	Los Angeles Unified	Public Service Community at Diego Rivera Learning Complex
+19647331934454	David^Starr^Jordan^S--Los^Angeles^Uni--1964733-1934454	Los Angeles	Los Angeles Unified	David Starr Jordan Senior High
+19647331933118	John^C.^Fremont^Seni--Los^Angeles^Uni--1964733-1933118	Los Angeles	Los Angeles Unified	John C. Fremont Senior High
+19647331934371	Thomas^Jefferson^Sen--Los^Angeles^Uni--1964733-1934371	Los Angeles	Los Angeles Unified	Thomas Jefferson Senior High
+19647330109447	Santee^Education^Com--Los^Angeles^Uni--1964733-0109447	Los Angeles	Los Angeles Unified	Santee Education Complex
+19646341934231	Inglewood^High--Inglewood^Unifi--1964634-1934231	Los Angeles	Inglewood Unified	Inglewood High
+19646341936046	Morningside^High--Inglewood^Unifi--1964634-1936046	Los Angeles	Inglewood Unified	Morningside High
+19647331939305	George^Washington^Pr--Los^Angeles^Uni--1964733-1939305	Los Angeles	Los Angeles Unified	George Washington Preparatory High
+19647336058028	Samuel^Gompers^Middl--Los^Angeles^Uni--1964733-6058028	Los Angeles	Los Angeles Unified	Samuel Gompers Middle
+19734376066732	Davis^Middle--Compton^Unified--1973437-6066732	Los Angeles	Compton Unified	Davis Middle
+19734376057566	Enterprise^Middle--Compton^Unified--1973437-6057566	Los Angeles	Compton Unified	Enterprise Middle
+19734376057590	Willowbrook^Middle--Compton^Unified--1973437-6057590	Los Angeles	Compton Unified	Willowbrook Middle
+19647330126573	Academy^for^Multilin--Los^Angeles^Uni--1964733-0126573	Los Angeles	Los Angeles Unified	Mervyn M. Dymally High
+19647331937424	Theodore^Roosevelt^S--Los^Angeles^Uni--1964733-1937424	Los Angeles	Los Angeles Unified	Theodore Roosevelt Senior High
+19647330122374	East^Los^Angeles^Ren--Los^Angeles^Uni--1964733-0122374	Los Angeles	Los Angeles Unified	East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2
+19647330122382	Engineering^and^Tech--Los^Angeles^Uni--1964733-0122382	Los Angeles	Los Angeles Unified	Engineering and Technology Academy at Esteban E. Torres High No. 3
+19647330122341	Esteban^Torres^East--Los^Angeles^Uni--1964733-0122341	Los Angeles	Los Angeles Unified	Esteban Torres East LA Performing Arts Magnet
+19647330122358	Humanitas^Academy^of--Los^Angeles^Uni--1964733-0122358	Los Angeles	Los Angeles Unified	Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4
+19647330122366	Social^Justice^Leade--Los^Angeles^Uni--1964733-0122366	Los Angeles	Los Angeles Unified	Social Justice Leadership Academy at Esteban E. Torres High No. 5
+19647331933381	James^A.^Garfield^Se--Los^Angeles^Uni--1964733-1933381	Los Angeles	Los Angeles Unified	James A. Garfield Senior High
+19647336057962	Charles^Drew^Middle--Los^Angeles^Uni--1964733-6057962	Los Angeles	Los Angeles Unified	Charles Drew Middle
+19647336058143	Mary^McLeod^Bethune--Los^Angeles^Uni--1964733-6058143	Los Angeles	Los Angeles Unified	Mary McLeod Bethune Middle
+19647336061444	Thomas^A.^Edison^Mid--Los^Angeles^Uni--1964733-6061444	Los Angeles	Los Angeles Unified	Thomas A. Edison Middle
+19643521935048	Leuzinger^High--Centinela^Valle--1964352-1935048	Los Angeles	Centinela Valley Union High	Leuzinger High
+19647336061527	Edwin^Markham^Middle--Los^Angeles^Uni--1964733-6061527	Los Angeles	Los Angeles Unified	Edwin Markham Middle
+19647336057921	George^Washington^Ca--Los^Angeles^Uni--1964733-6057921	Los Angeles	Los Angeles Unified	George Washington Carver Middle
+19647330124453	Dr.^Julian^Nava^Lear--Los^Angeles^Uni--1964733-0124453	Los Angeles	Los Angeles Unified	Dr. Julian Nava Learning Academy
+19647336057855	John^Adams^Middle--Los^Angeles^Uni--1964733-6057855	Los Angeles	Los Angeles Unified	John Adams Middle
+19643521933951	Hawthorne^High--Centinela^Valle--1964352-1933951	Los Angeles	Centinela Valley Union High	Hawthorne High
+19647336058044	Bret^Harte^Preparato--Los^Angeles^Uni--1964733-6058044	Los Angeles	Los Angeles Unified	Bret Harte Preparatory Middle
+19647331935519	Manual^Arts^Senior^H--Los^Angeles^Uni--1964733-1935519	Los Angeles	Los Angeles Unified	Manual Arts Senior High
+19647331933241	Gardena^Senior^High--Los^Angeles^Uni--1964733-1933241	Los Angeles	Los Angeles Unified	Gardena Senior High
+19647331939040	Venice^Senior^High--Los^Angeles^Uni--1964733-1939040	Los Angeles	Los Angeles Unified	Venice Senior High
+19734371931963	Compton^High--Compton^Unified--1973437-1931963	Los Angeles	Compton Unified	Compton High
+19734371931567	Centennial^High--Compton^Unified--1973437-1931567	Los Angeles	Compton Unified	Centennial High
+19647336058127	Marina^del^Rey^Middl--Los^Angeles^Uni--1964733-6058127	Los Angeles	Los Angeles Unified	Marina del Rey Middle
+19646346057749	Crozier^(George^W.)--Inglewood^Unifi--1964634-6057749	Los Angeles	Inglewood Unified	Crozier (George W.) Middle
+19647336061394	Audubon^Middle--Los^Angeles^Uni--1964733-6061394	Los Angeles	Los Angeles Unified	Audubon Middle
