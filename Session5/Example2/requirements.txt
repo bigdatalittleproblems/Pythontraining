@@ -1,0 +1,2 @@
+#requirements for CDE Web Scrape
+pandas==1.2.4
