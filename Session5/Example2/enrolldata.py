@@ -59,4 +59,4 @@ for i in list(enrollFiles.keys())[0:4]:
     df_temp['SchoolYear']=i
     df_list.append(df_temp)
 df_stack=pd.concat(df_list)
-# df_stack.to_csv('enrolldatastack.csv')
+df_stack.to_csv('enrolldatastack.csv',index=False)

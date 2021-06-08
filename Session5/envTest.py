@@ -1,3 +1,3 @@
 import cowsay
 cowsay.cow('MOO')
-cowsay.beavis('It works!')
+cowsay.ghostbusters('It works!')
