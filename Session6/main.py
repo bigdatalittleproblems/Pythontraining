@@ -9,4 +9,3 @@ from Session6.custom_modules.dwpull import dwsqlpull
 
 projwd = Path.cwd()
 df=dwsqlpull(sqlFile_path=projwd.joinpath("Session6/sqlQueries/RI.sql"),outputname="RIData20202021")
-
