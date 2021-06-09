@@ -30,10 +30,6 @@ df_iloc=df[df['FirstTestSchool']=='Locke Academy'].index
 df.iloc[df_iloc]
 
 df_drf=df.loc[(df['FirstTestSchool']=='Locke Academy')&(df['MonthsBetweenFirstLast']>5)]
-df_drf=df_drf[['schoolyear', 'FirstTestSchool', 'TestGradeLevel', 'FirstRIDate',
-       'FirstRIScore', 'MidRIDate', 'MidRIScore', 'LastRIDate', 'LastRIScore',
-       'HighestDate', 'HighestScore', 'TwoTests', 'MonthsBetweenFirstLast',
-       'HasMidYearTest', 'Growth_FirstLast', 'AdjustedGrowth_FirstLast',
-       'Growth_FirstHighest', 'AdjustedGrowth_FirstHighest']]
+df_drf=df_drf[[ 'FirstTestSchool', 'schoolyear','TestGradeLevel', 'AdjustedGrowth_FirstHighest']]
 
-df_summary=df_drf.groupby(['schoolyear','TestGradeLevel']).mean().reset_index()
+df_summary=df_drf.groupby(['FirstTestSchool','schoolyear','TestGradeLevel']).mean().reset_index()
